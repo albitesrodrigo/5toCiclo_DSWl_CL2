@@ -1,0 +1,50 @@
+﻿@model DSW_I_CL2_Bautista_Albites_Brayan.Models.ClassCalcular
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar Registro</h1>
+
+<h3>Usted esta seguro que desea ELIMINAR EL REGISTRO</h3>
+<div>
+    <h4>ClassCalcular</h4>
+    <hr />
+    <dl class="row justify-content-center">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Idcd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Idcd)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cliente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cliente)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CapaDiscoGB)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CapaDiscoGB)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CapaCdMB)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CapaCdMB)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalCds)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotalCds)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-controller="DiscoSolido" asp-action="listadoCalculos" class="btn btn-warning">Cancelar</a>
+    </form>
+</div>

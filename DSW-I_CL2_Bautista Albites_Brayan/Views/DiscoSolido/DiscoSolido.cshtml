@@ -1,0 +1,29 @@
+﻿@model DSW_I_CL2_Bautista_Albites_Brayan.Models.ClassCalcular
+@{
+    ViewBag.Title = "Disco Solido";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+}
+<h1 style="text-align:center">CALCULAR</h1>
+<br />
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-controller="DiscoSolido" asp-action="CalcularCds">
+            <br />
+            <label style="text-align: center"><b>Cliente</b></label>
+            <div style="text-align: center;">
+                <input asp-for="Cliente" class="form-control small-input" style="text-align: center;" />
+            </div>
+            <br>
+            <label style="text-align: center"><b>Capacidad disco duro</b></label>
+            <div style="text-align: center;">
+                <input asp-for="CapaDiscoGB" class="form-control small-input" style="text-align: center;" />
+            </div>
+            <br>
+            <div style="text-align: center;">
+                <input type="submit" value="Calcular" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+</div>

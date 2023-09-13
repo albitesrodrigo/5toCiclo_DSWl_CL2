@@ -1,0 +1,117 @@
+﻿@model IEnumerable<DSW_I_CL2_Bautista_Albites_Brayan.Models.ClassCalcular>
+
+@{
+    ViewData["Title"] = "listadoCalculos";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+}
+
+<h1 style="text-align:center">Listado de Calculos</h1>
+<p style="text-align:center">
+    <a asp-controller="DiscoSolido" asp-action="DiscoSolido" class="btn btn-primary">Realizar Nuevo Calculo</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Idcd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CapaDiscoGB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CapaCdMB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalCds)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idcd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CapaDiscoGB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CapaCdMB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalCds)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id=item.Idcd },new{@class="btn btn-primary",@role="button"}) |
+                @*   @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+                @Html.ActionLink("Eliminar", "Delete", new { id=item.Idcd },new{@class="btn btn-danger", @role="button" ,@id="eliminar"})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div style="text-align:center">
+    @for (int i = 0; i < (int)ViewBag.paginas; i++)
+    {
+        @Html.ActionLink((i+1).ToString(),"ListadoCalculos","DiscoSolido",new{p=i},new{@class="btn btn-danger"})
+        ;
+
+    }
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            $("tr #eliminar").click(function (y) {
+                //evita el reinicio...
+                y.preventDefault();
+                Swal.fire({
+                    title: 'Eliminar Registro',
+                    text: "Usted desea Eliminar el Registro?",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'SI, ELIMINAR REGISTRO!',
+                    cancelButtonText: '¿Desea Cancelar?'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        //capturamos el href...(controlador y accion)
+                        //y lo almacenamos en la variable url...
+                        var url = $("#eliminar").attr("href");
+                        //aplicamos ajax
+                        $.ajax({
+                            url: url,
+                            async: true,
+                            success: function (r) {
+                                //vemos respuesta del servidor...
+                                console.log(r);
+
+                            }   //fin del success
+
+                        })    //fin de ajax...
+                        setTimeout(function () {
+                            //tiempo de actualizado de la pagina donde ajax realiza la accion.
+                            parent.location = "listadoCalculos"
+
+                        }, 1000)   //fin del settimeout........
+
+                    }    //fin del if...
+                })
+            }) //  fin del evento click...
+
+        })   //fin de jquery...
+
+    </script>
+
+}

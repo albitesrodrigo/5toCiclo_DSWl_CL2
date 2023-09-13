@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DSW-I_CL2_Bautista Albites_Brayan.props" />
+</Project>

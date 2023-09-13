@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DSW_I_CL2_Bautista_Albites_Brayan
+build_property.RootNamespace = DSW_I_CL2_Bautista_Albites_Brayan
+build_property.ProjectDir = D:\CIBERTEC\EA Ciclo Vl\Desarrollo de Servicios Web l\Evaluaciones\CL2\DSW-I_CL2_Bautista Albites_Brayan\DSW-I_CL2_Bautista Albites_Brayan\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CIBERTEC\EA Ciclo Vl\Desarrollo de Servicios Web l\Evaluaciones\CL2\DSW-I_CL2_Bautista Albites_Brayan\DSW-I_CL2_Bautista Albites_Brayan
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Adaptadores/Adaptadores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRhcHRhZG9yZXNcQWRhcHRhZG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/DiscoSolido/CalcularCds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY29Tb2xpZG9cQ2FsY3VsYXJDZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/DiscoSolido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY29Tb2xpZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/DiscoSolido/DiscoSolido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY29Tb2xpZG9cRGlzY29Tb2xpZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/DiscoSolido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY29Tb2xpZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/DiscoSolido/listadoCalculos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY29Tb2xpZG9cbGlzdGFkb0NhbGN1bG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Perifericos/Perifericos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyaWZlcmljb3NcUGVyaWZlcmljb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Shared/_LayoutMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/VentasHardware/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzSGFyZHdhcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/VentasHardware/MemoriaRAM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzSGFyZHdhcmVcTWVtb3JpYVJBTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/EA Ciclo Vl/Desarrollo de Servicios Web l/Evaluaciones/CL2/DSW-I_CL2_Bautista Albites_Brayan/DSW-I_CL2_Bautista Albites_Brayan/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qpsk9epmwg

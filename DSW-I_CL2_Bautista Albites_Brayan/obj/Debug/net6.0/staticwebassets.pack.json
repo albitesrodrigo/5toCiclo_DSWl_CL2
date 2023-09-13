@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DSW-I_CL2_Bautista Albites_Brayan.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DSW-I_CL2_Bautista Albites_Brayan.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\css\\Estilos.css",
+      "PackagePath": "staticwebassets\\css\\Estilos.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador1.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador1.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador2.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador2.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador3.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador3.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador4.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador4.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador5.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador5.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador6.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador6.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador7.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador7.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\adaptador8.jpg",
+      "PackagePath": "staticwebassets\\img\\adaptador8.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\facebook.jpg",
+      "PackagePath": "staticwebassets\\img\\facebook.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria1.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria1.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria2.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria2.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria3.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria3.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria4.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria4.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria5.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria5.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria6.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria6.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria7.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria7.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\memoria8.jpg",
+      "PackagePath": "staticwebassets\\img\\memoria8.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico1.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico1.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico2.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico2.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico3.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico3.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico4.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico4.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico5.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico5.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico6.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico6.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico7.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico7.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\periferico8.jpg",
+      "PackagePath": "staticwebassets\\img\\periferico8.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\twitter.jpg",
+      "PackagePath": "staticwebassets\\img\\twitter.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\ventadecomponentes.jpg",
+      "PackagePath": "staticwebassets\\img\\ventadecomponentes.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\whatsapp.jpg",
+      "PackagePath": "staticwebassets\\img\\whatsapp.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\img\\youtube.jpg",
+      "PackagePath": "staticwebassets\\img\\youtube.jpg"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CIBERTEC\\EA Ciclo Vl\\Desarrollo de Servicios Web l\\Evaluaciones\\CL2\\DSW-I_CL2_Bautista Albites_Brayan\\DSW-I_CL2_Bautista Albites_Brayan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DSW-I_CL2_Bautista Albites_Brayan.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DSW-I_CL2_Bautista Albites_Brayan.props",
+      "PackagePath": "build\\DSW-I_CL2_Bautista Albites_Brayan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DSW-I_CL2_Bautista Albites_Brayan.props",
+      "PackagePath": "buildMultiTargeting\\DSW-I_CL2_Bautista Albites_Brayan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DSW-I_CL2_Bautista Albites_Brayan.props",
+      "PackagePath": "buildTransitive\\DSW-I_CL2_Bautista Albites_Brayan.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,61 @@
+﻿header,nav,footer{
+    width:100%;
+    height:auto;
+    float:left
+}
+
+body {
+    background-color:azure;
+}
+.logo{
+    width:100%;
+    height:300px;
+   border-radius:20px
+
+}
+
+.footer-rs{
+    text-align:center;
+}
+.menu{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);
+}
+.menu-item{
+
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+    display:block;
+    font-size:18px;
+}
+.menu-item:hover{
+    background-color:white;
+}
+.rs{
+    width:60px;
+    height:60px;
+    border-radius:20px;
+}
+.wrapper{
+    display :grid;
+    grid-template-columns:repeat(4,1fr);    
+    margin-top:5px;
+
+}
+.wrapper-item{
+    text-align:center;
+    border:1px solid;
+    padding-top:10px;
+    border-radius:10px;
+}
+.wrapper-item img{
+
+     width:100%;
+     height:220px;
+     padding-left:10%;
+     padding-right:10%;
+     padding-bottom:15px;
+}
+
+

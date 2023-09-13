@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/Estilos.css" asp-append-version="true" />
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</head>
+<body>
+    <header>
+        <img class="logo" src="~/img/logo.jpg" />
+    </header>
+    <nav>
+        <div class="menu">
+            <a asp-controler="VentasHardware" asp-action="Index" class="menu-item">Inicio</a>
+            <a asp-controller="DiscoSolido" asp-action="DiscoSolido" class="menu-item">Disco Solido</a>
+            <a asp-controller="VentasHardware" asp-action="MemoriaRAM" class="menu-item">Memorias RAM</a>
+            <a asp-controller="Perifericos" asp-action="Perifericos" class="menu-item">Perifericos</a>
+            <a asp-controller="Adaptadores" asp-action="Adaptadores" class="menu-item">Adaptadores</a>
+        </div>
+
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <div>
+            Ventas Hardware S.A.C.<br />
+            Av. Arequipa 1128 - Lima - Perú<br />
+            Telefono: 01 - 1425784<br />
+            Email: ventashardware@gmail.com<br />
+        </div>
+        <div class="footer-rs">
+            <img src="~/img/facebook.jpg" class="rs" />
+            <img src="~/img/twitter.jpg" class="rs" />
+            <img src="~/img/youtube.jpg" class="rs" />
+            <img src="~/img/whatsapp.jpg" class="rs" />
+        </div>
+    </footer>
+    @RenderSection("scripts",required:false);
+</body>
+</html>

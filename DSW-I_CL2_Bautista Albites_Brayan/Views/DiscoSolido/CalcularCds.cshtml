@@ -1,0 +1,14 @@
+﻿@model DSW_I_CL2_Bautista_Albites_Brayan.Models.ClassCalcular
+@{
+    ViewBag.Title = "CALCULAR";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+}
+<!--    imprimimos en la vista los valores  -->
+
+<h2 style="text-align:center">RESPUESTA: </h2>
+<h2 style="text-align:center">PARA UN DISCO DE @Model.CapaDiscoGB GB DE CAPACIDAD DE ALMACENAMIENTO</h2>
+<h2 style="text-align:center">SE NECESITA UN TOTAL DE @Model.TotalCds CDS PARA HACER UNA COPIA DE SEGURIDAD</h2>
+
+<h2 style="text-align:center">
+    <a asp-controller="DiscoSolido" asp-action="Listado">Ver Listado de Calculos</a>
+</h2>

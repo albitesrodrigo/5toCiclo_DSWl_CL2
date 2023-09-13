@@ -1,0 +1,54 @@
+﻿@model DSW_I_CL2_Bautista_Albites_Brayan.Models.ClassCalcular
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+}
+
+<h1>Editar</h1>
+
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Idcd" class="control-label"></label>
+                <input asp-for="Idcd" class="form-control" />
+                <span asp-validation-for="Idcd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cliente" class="control-label"></label>
+                <input asp-for="Cliente" class="form-control" />
+                <span asp-validation-for="Cliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CapaDiscoGB" class="control-label"></label>
+                <input asp-for="CapaDiscoGB" class="form-control" />
+                <span asp-validation-for="CapaDiscoGB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CapaCdMB" class="control-label"></label>
+                <input asp-for="CapaCdMB" class="form-control" />
+                <span asp-validation-for="CapaCdMB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalCds" class="control-label"></label>
+                <input asp-for="TotalCds" class="form-control" />
+                <span asp-validation-for="TotalCds" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="DiscoSolido" asp-action="listadoCalculos" class="btn btn-warning">Lista de Registros</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
